@@ -1,5 +1,13 @@
-# Kagi Official Website
+# kagimusic.com
 
-The official website for Kagi, music producer and composer.
+Official website for [Kagi](https://x.com/kagimusic) — music composer.
 
-Work in progress.
+Simple and responsive React site with a FAQ accordion with linkable sections and a neat about page.  
+
+Deployed on Netlify.
+
+Live: https://kagimusic.com
+
+---
+
+![Demo](./preview.gif)
